@@ -44,30 +44,41 @@ class Elhoucine:
 me = Elhoucine()
 print(me.current_mission())
 ```
-🛠️ user@elhoucine02:~$ ls -la /var/lib/skills
+### 🛠️ `user@elhoucine02:~$ ls -la /var/lib/skills`
 
-<div align="center">
+**💻 Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-💻 Languages & Database
+<br/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
+**🐼 Data Science & ML**
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
-🐼 Data Science & ML
+<br/>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit_learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="Scikit-Learn" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-ffffff%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dblack" alt="Matplotlib" />
+**🚀 Backend, Scraping & Tools**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🚀 Backend & Scraping
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrapy-60A839%3Fstyle%3Dfor-the-badge%26logo%3Dscrapy%26logoColor%3Dwhite" alt="Scrapy" />
-
-</div>
-📊 user@elhoucine02:~$ ./show_stats.sh
-
-<div align="center"> <p> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Delhoucine02%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D39FF14%26icon_color%3D39FF14" alt="Elhoucine Stats" /> </p> <p> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Delhoucine02%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D39FF14" alt="Top Languages" /> </p> </div>
-
-<hr/> <div align="center"> <sub>End of transmission... // Built by Elhoucine02</sub> </div>
-
+<br/>
 <!---
+### 📊 `user@elhoucine02:~$ ./show_stats.sh`
+
+![Elhoucine's Stats](https://github-readme-stats.vercel.app/api?username=elhoucine02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elhoucine02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14)
+
 🚀 user@elhoucine:~$ tail -f /projects/roadmap.log
 
 Here is the master plan for my upcoming portfolio projects:
