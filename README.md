@@ -72,13 +72,13 @@ print(me.current_mission())
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-<!---
+
 ### 📊 `user@elhoucine02:~$ ./show_stats.sh`
 
 ![Elhoucine's Stats](https://github-readme-stats.vercel.app/api?username=elhoucine02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elhoucine02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14)
-
+<!---
 🚀 user@elhoucine:~$ tail -f /projects/roadmap.log
 
 Here is the master plan for my upcoming portfolio projects:
