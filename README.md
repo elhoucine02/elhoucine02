@@ -78,17 +78,22 @@ print(me.current_mission())
 ![Elhoucine's Stats](https://github-readme-stats.vercel.app/api?username=elhoucine02&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elhoucine02&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=39FF14)
-<!---
-🚀 user@elhoucine:~$ tail -f /projects/roadmap.log
+
+
+### 🚀 `user@elhoucine:~$ tail -f /projects/roadmap.log`
 
 Here is the master plan for my upcoming portfolio projects:
-1️⃣ The Price Watcher (Automation)
 
-    A smart bot to track price drops on tech gadgets.
 
-    Stack: Scrapy SQL Python Scripting
+1️⃣ FastAPI Blog API (Backend)
 
-    Status: [■■□□□□□□□□] 20% In Progress
+    Stack: FastAPI SQLAlchemy JWT PostgreSQL Pytest
+    
+    Status: [■■■■■■■■□□] 80% ✅ Core Complete
+    
+    🔗 [View Project](https://github.com/elhoucine02/fastapi-blog)
+
+<!---
 
 2️⃣ YouTube Trends Analyzer (Data Viz)
 
